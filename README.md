@@ -18,7 +18,8 @@ M5 is a Walmart dataset about products sold in the stores of USA. It has a group
 3. Sales train: Contains the historical daily unit sales data per product and store
 
 Please see the below illustration for details:
-![image.png](levels.png)
+![image](https://user-images.githubusercontent.com/121529081/228983197-882cea65-afbb-471f-95a6-0b278d7402c9.png)
+
 
 ### Approach Summary
 We started with a high level data exploration of M5 dataset to understand details and variation. Then we did feature engineering to create features on a product sale level. The features included defining lags, rolling means and SNAP program details. Then we used different Hierarchy of data set for modelling based on stores, departments and categories in the dataset.
