@@ -1,6 +1,8 @@
 # M5 Forecasting
-Demand Forecasting for Walmart - M5 Challenge (Forecasting | Predictive Analytics | Time Series Analysis) 
+*Demand Forecasting for Walmart - M5 Challenge (Forecasting | Predictive Analytics | Time Series Analysis)*
+
 •	Forecasted sales utilizing bagging and boosting models on diverse hierarchies of time-series data of 5 years.
+
 •	Achieved a top 2% ranking in Kaggle competition by accurately predicting retail goods with WRMSSE of 0.52.
 
 ### Project Description
